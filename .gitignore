@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.csv
+*.tmp
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+data/*
+!data/.gitkeep
